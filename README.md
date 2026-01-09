@@ -95,9 +95,13 @@ Install Live Server extension
 
 Right-click index.html → Open with Live Server
 
+
+
 The game will run in your browser and auto-refresh on changes
 
 These steps allow the game to run easily on any modern web browser without additional software.
 
 * Score tracking
 * Restart/reset functionality
+
+https://github.com/bryanbautista267-rgb/DC101_Game_BautistaBryan.git
